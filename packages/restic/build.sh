@@ -2,7 +2,6 @@ TERMUX_PKG_HOMEPAGE=https://restic.net/
 TERMUX_PKG_DESCRIPTION="Fast, secure, efficient backup program"
 TERMUX_PKG_LICENSE="BSD"
 TERMUX_PKG_VERSION=0.11.0
-TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/restic/restic/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=73cf434ec93e2e20aa3d593dc5eacb221a71d5ae0943ca59bdffedeaf238a9c6
 TERMUX_PKG_SUGGESTS="openssh, rclone"
